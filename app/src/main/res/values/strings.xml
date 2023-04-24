@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TurnOnOffUSBRelay</string>
+    <string name="relay1">Relay1</string>
+    <string name="off">Off</string>
+    <string name="on">On</string>
+    <string name="relay2">Relay2</string>
+    <string name="relay3">Relay3</string>
+    <string name="relay4">Relay4</string>
+    <string name="relay5">Relay5</string>
+    <string name="relay6">Relay6</string>
+    <string name="relay7">Relay7</string>
+    <string name="relay8">Relay8</string>
+    <string name="relay_modules">Relay Modules</string>
+    <string name="all_on_off">All On / Off</string>
+    <string name="btn_refresh">Refresh</string>
+</resources>
